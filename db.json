@@ -25,8 +25,11 @@
 			"description": "Hàng ngàn mẫu đồng hồ độc đáo"
 		}
 	],
-	"userdata": [{
+	"users": [{
+			"id": "1",
+			"name": "Võ Hoàng Phú",
 			"username": "phu.vohoang",
+			"email": "kinos_fiolis@hotmail.com",
 			"password": "abc321",
 			"avatar": "https://i.imgur.com/bJ9IuSs.jpg"
 		},
