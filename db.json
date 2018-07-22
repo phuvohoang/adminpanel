@@ -2,7 +2,8 @@
 	"category": [{
 			"id": 1,
 			"name": "Áo thun nữ",
-			"description": "Áo thun thời trang cho nữ"
+			"description": "Áo thun thời trang cho nữ",
+			"photo":"https://vn-test-11.slatic.net/original/37d1b520f9c26b537f2b6f22d3a46d2b.jpg"
 		},
 		{
 			"id": 2,
