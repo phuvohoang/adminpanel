@@ -34,7 +34,10 @@
 			"avatar": "https://i.imgur.com/bJ9IuSs.jpg"
 		},
 		{
+			"id": "2",
+			"name":"Bùi Khắc Bình",
 			"username": "binh.buikhac",
+			"email":"binh.buikhac@gmail.com",
 			"password": "abc321",
 			"avatar": "https://i.imgur.com/Hm8XIAQ.jpg"
 		}
