@@ -1,0 +1,122 @@
+{
+  "bookborrowed": [
+    {
+      "id": 1,
+      "booktitle": "From Fatherless to Fatherhood",
+      "author": "Omar Epps",
+      "borrowedby": "Kinos Fiolis",
+      "borrowedday": "05/31/2018",
+      "returnedday": "05/31/2018"
+    },
+    {
+      "id": 2,
+      "booktitle": "A is for Apperdooloooo",
+      "author": "John Barkhimer Jr",
+      "borrowedby": "Janathan Dolores",
+      "borrowedday": "05/31/2018",
+      "returnedday": "06/01/2018"
+    },
+    {
+      "id": 3,
+      "booktitle": "How to get stronger",
+      "author": "Kinos Fiolis",
+      "borrowedby": "Paracetamol Panadol",
+      "borrowedday": "05/24/2018",
+      "returnedday": "06/08/2018"
+    },
+    {
+      "id": 4,
+      "booktitle": "Red Tide",
+      "author": "John Alexander",
+      "borrowedby": "Lê Thiếu Anh",
+      "borrowedday": "05/06/2018",
+      "returnedday": "06/13/2018"
+    },
+    {
+      "id": 5,
+      "booktitle": "Truyện Kiều",
+      "author": "Nguyễn Du",
+      "borrowedby": "Đường Hàn",
+      "borrowedday": "06/06/2018",
+      "returnedday": "06/12/2018"
+    },
+    {
+      "id": 6,
+      "booktitle": "Chí Phèo",
+      "author": "Nam Cao",
+      "borrowedby": "Trần Anh Khoa",
+      "borrowedday": "06/01/2018",
+      "returnedday": "06/06/2018"
+    }
+  ],
+  "userdata": [
+    {
+      "username": "phu.vohoang",
+      "password": "abc321",
+	  "avatar": "https://i.imgur.com/bJ9IuSs.jpg"
+    },
+    {
+      "username": "binh.buikhac",
+      "password": "abc321",
+	  "avatar": "https://i.imgur.com/Hm8XIAQ.jpg"
+    }
+  ],
+  "bookmanagement": [
+    {
+      "name": "Truyện Kiều",
+      "author": "Nguyễn Du",
+      "id": "1",
+      "release": "1770",
+      "category": "Tiểu Thuyết",
+      "image": "https://i.imgur.com/EGr8r2v.jpg"
+    },
+    {
+      "name": "Lục Vân Tiên ",
+      "author": "Nguyễn Đình Chiểu",
+      "id": "2",
+      "release": "1980",
+      "category": "Tiểu Thuyết",
+      "image": "https://i.imgur.com/hj6z0R4.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chí Phèo",
+      "author": "Nam Cao",
+      "release": "1961",
+      "category": "Tiểu Thuyết",
+      "image": "https://i.imgur.com/NWmy8J1.jpg"
+    },
+    {
+      "id": "4",
+      "name": "West World",
+      "author": "Jonathan Nolan",
+      "release": "2016",
+      "category": "Viễn Tưởng",
+      "image": "https://i.imgur.com/Fww3C3m.jpg"
+    },
+    {
+      "name": "From Fatherless to Fatherhood",
+      "author": "Omar Epps",
+      "id": "5",
+      "release": "May 4, 2018",
+      "category": "Tâm Lý Xã Hội",
+      "image": "https://i.imgur.com/XQ6aDov.jpg"
+    },
+    {
+      "name": "A is for Apperdoo",
+      "author": "John Barkhimer Jr",
+      "id": "6",
+      "release": "November 28, 2017",
+      "category": "Sách Thiếu Nhi",
+      "image": "https://i.imgur.com/QvC5ASE.jpg"
+    },
+    {
+      "name": "Red Tide",
+      "author": "John Alexander",
+      "id": "7",
+      "release": "April 14, 2018",
+      "category": "Viễn Tưởng",
+      "image": "https://i.imgur.com/YgVJ4VP.jpg"
+    }
+  ]
+}
